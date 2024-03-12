@@ -1,4 +1,3 @@
-# Landing-page
 # Landing Page Project
 
 This landing page project is a demonstration of my fundamental skills in HTML and CSS, acquired through my journey with The Odin Project. As a beginner in web development, I've crafted this simple yet elegant landing page to showcase my understanding of basic web design principles.
