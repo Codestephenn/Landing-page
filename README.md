@@ -38,7 +38,7 @@ landing-page-project/
 To view the landing page locally, simply clone this repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/landing-page-project.git
+git@github.com:Codestephenn/Landing-page.git
 ```
 
 ## Contributing
